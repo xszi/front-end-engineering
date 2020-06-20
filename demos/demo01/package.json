@@ -1,0 +1,11 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "xszi",
+  "license": "ISC"
+}

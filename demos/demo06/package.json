@@ -1,0 +1,13 @@
+{
+  "name": "demo06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "sideEffects": false,
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "",
+  "license": "ISC"
+}
